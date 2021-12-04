@@ -1,0 +1,10 @@
+1.Missing Value. V
+2. Can you explain what is bias and variance trade-off? How it is expressed using an equation? 
+Give me an example of both high bias model and high variance model. V
+3. What is L1 and L2 regularization? what are the differences between the two? V
+4. Elastic Net? When to use Elastic Net, L1 and L2. V
+5. How do you know your model is overfitting and what you should do to avoid overfitting. V
+6. Gradient Descent, SGD V
+7. Probability vs Likelihood
+8. MLE
+

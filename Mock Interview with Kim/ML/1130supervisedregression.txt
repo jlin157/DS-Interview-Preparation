@@ -1,0 +1,34 @@
+Supervised Learning: 
+    Linear regression
+	1. four assumption for linear regression
+		what tool or how do you identify homoscedasticity and normality?
+	2. R^2 vs. adjusted R^2
+	3. MAE vs. MSE
+	4. How do you reduce model complexity of a regression model?
+	5. how do you deal with multicollinearity
+
+	6. OLS
+
+    Decision Tree
+	1. Entropy
+	2. IG
+	3. Gini Impurity
+
+	grid search
+    Random Forest
+	1. benefit
+	2. what is the diff between xgboost and a rf
+ 	3. why rf , we don't need to deal with missing value
+	4. more acceptible to outliers
+    Gradient Bossting Tree
+           Adaboost
+           CatBosst 
+           Light GBM
+           XGBoost
+    Neural Network
+
+Bias vs. Variance
+
+
+
+
